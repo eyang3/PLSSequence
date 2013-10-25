@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLSSequence", "PLSSequence\PLSSequence.csproj", "{CFCEC3CD-8F4E-4B45-B0E6-D93581DFB928}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6304A315-091C-4A76-B16C-E7C0F8A04A20}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		PLSSequence.vsmdi = PLSSequence.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLSSequenceTest", "PLSSequenceTest\PLSSequenceTest.csproj", "{A1C70464-044C-4AA6-9AD3-7033F29C88E8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CFCEC3CD-8F4E-4B45-B0E6-D93581DFB928} = {CFCEC3CD-8F4E-4B45-B0E6-D93581DFB928}
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{DA9CF00D-2F10-4EDF-A42A-7DCA20BA85EF}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = PLSSequence.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFCEC3CD-8F4E-4B45-B0E6-D93581DFB928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFCEC3CD-8F4E-4B45-B0E6-D93581DFB928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFCEC3CD-8F4E-4B45-B0E6-D93581DFB928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFCEC3CD-8F4E-4B45-B0E6-D93581DFB928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C70464-044C-4AA6-9AD3-7033F29C88E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C70464-044C-4AA6-9AD3-7033F29C88E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C70464-044C-4AA6-9AD3-7033F29C88E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C70464-044C-4AA6-9AD3-7033F29C88E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA9CF00D-2F10-4EDF-A42A-7DCA20BA85EF}.Debug|Any CPU.ActiveCfg = Debug
+		{DA9CF00D-2F10-4EDF-A42A-7DCA20BA85EF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -20,3 +20,25 @@ C:\Users\Eric\documents\visual studio 2010\Projects\PLSSequence\PLSSequence\obj\
 C:\Users\Eric\documents\visual studio 2010\Projects\PLSSequence\PLSSequence\obj\Debug\PLSSequence.dll
 C:\Users\Eric\documents\visual studio 2010\Projects\PLSSequence\PLSSequence\obj\Debug\PLSSequence.pdb
 C:\Users\Eric\documents\visual studio 2010\Projects\PLSSequence\PLSSequence\obj\Debug\PLSSequence.csprojResolveAssemblyReference.cache
+C:\Repos\PLSSequence\PLSSequence\bin\Debug\PLSSequence.dll
+C:\Repos\PLSSequence\PLSSequence\bin\Debug\PLSSequence.pdb
+C:\Repos\PLSSequence\PLSSequence\bin\Debug\PLSSequence.dll.manifest
+C:\Repos\PLSSequence\PLSSequence\bin\Debug\PLSSequence.vsto
+C:\Repos\PLSSequence\PLSSequence\bin\Debug\Accord.Math.dll
+C:\Repos\PLSSequence\PLSSequence\bin\Debug\Accord.Statistics.dll
+C:\Repos\PLSSequence\PLSSequence\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Repos\PLSSequence\PLSSequence\bin\Debug\Accord.dll
+C:\Repos\PLSSequence\PLSSequence\bin\Debug\Accord.Math.pdb
+C:\Repos\PLSSequence\PLSSequence\bin\Debug\Accord.Math.xml
+C:\Repos\PLSSequence\PLSSequence\bin\Debug\Accord.Statistics.pdb
+C:\Repos\PLSSequence\PLSSequence\bin\Debug\Accord.Statistics.xml
+C:\Repos\PLSSequence\PLSSequence\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Repos\PLSSequence\PLSSequence\bin\Debug\Accord.pdb
+C:\Repos\PLSSequence\PLSSequence\bin\Debug\Accord.xml
+C:\Repos\PLSSequence\PLSSequence\obj\Debug\PLSSequence.csprojResolveAssemblyReference.cache
+C:\Repos\PLSSequence\PLSSequence\obj\Debug\PLSSequence.Input.resources
+C:\Repos\PLSSequence\PLSSequence\obj\Debug\PLSSequence.Properties.Resources.resources
+C:\Repos\PLSSequence\PLSSequence\obj\Debug\PLSSequence.Ribbon1.resources
+C:\Repos\PLSSequence\PLSSequence\obj\Debug\PLSSequence.csproj.GenerateResource.Cache
+C:\Repos\PLSSequence\PLSSequence\obj\Debug\PLSSequence.dll
+C:\Repos\PLSSequence\PLSSequence\obj\Debug\PLSSequence.pdb

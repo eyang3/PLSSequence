@@ -16,3 +16,21 @@ C:\Users\Eric\documents\visual studio 2010\Projects\PLSSequence\PLSSequenceTest\
 C:\Users\Eric\documents\visual studio 2010\Projects\PLSSequence\PLSSequenceTest\obj\Debug\PLSSequenceTest.csprojResolveAssemblyReference.cache
 C:\Users\Eric\documents\visual studio 2010\Projects\PLSSequence\PLSSequenceTest\obj\Debug\PLSSequenceTest.dll
 C:\Users\Eric\documents\visual studio 2010\Projects\PLSSequence\PLSSequenceTest\obj\Debug\PLSSequenceTest.pdb
+C:\Repos\PLSSequence\PLSSequenceTest\bin\Debug\PLSSequenceTest.dll
+C:\Repos\PLSSequence\PLSSequenceTest\bin\Debug\PLSSequenceTest.pdb
+C:\Repos\PLSSequence\PLSSequenceTest\bin\Debug\PLSSequence.dll
+C:\Repos\PLSSequence\PLSSequenceTest\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Repos\PLSSequence\PLSSequenceTest\bin\Debug\Accord.Statistics.dll
+C:\Repos\PLSSequence\PLSSequenceTest\bin\Debug\Accord.Math.dll
+C:\Repos\PLSSequence\PLSSequenceTest\bin\Debug\Accord.dll
+C:\Repos\PLSSequence\PLSSequenceTest\bin\Debug\PLSSequence.pdb
+C:\Repos\PLSSequence\PLSSequenceTest\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Repos\PLSSequence\PLSSequenceTest\bin\Debug\Accord.Statistics.pdb
+C:\Repos\PLSSequence\PLSSequenceTest\bin\Debug\Accord.Statistics.xml
+C:\Repos\PLSSequence\PLSSequenceTest\bin\Debug\Accord.Math.pdb
+C:\Repos\PLSSequence\PLSSequenceTest\bin\Debug\Accord.Math.xml
+C:\Repos\PLSSequence\PLSSequenceTest\bin\Debug\Accord.pdb
+C:\Repos\PLSSequence\PLSSequenceTest\bin\Debug\Accord.xml
+C:\Repos\PLSSequence\PLSSequenceTest\obj\Debug\PLSSequenceTest.csprojResolveAssemblyReference.cache
+C:\Repos\PLSSequence\PLSSequenceTest\obj\Debug\PLSSequenceTest.dll
+C:\Repos\PLSSequence\PLSSequenceTest\obj\Debug\PLSSequenceTest.pdb

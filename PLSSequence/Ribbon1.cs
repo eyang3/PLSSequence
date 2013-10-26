@@ -30,7 +30,7 @@ namespace PLSSequence
         {
 
         }
-        private double[,] extractValues(Microsoft.Office.Interop.Excel.Range range)
+        private double[,] extractValues(Microsoft.Office.Interop.Excel.Range range, bool toLog)
         {
             double[,] ret = new double[range.Rows.Count, range.Columns.Count];
             for (int i = 0; i < range.Rows.Count; i++)
@@ -38,8 +38,9 @@ namespace PLSSequence
                 for (int j = 0; j < range.Columns.Count; j++)
                 {
                     try
-                    {
+                    {                        
                         ret[i,j] = range[i + 1, j + 1].Value2;
+                        if (toLog) ret[i, j] = -1 * Math.Log10(ret[i, j]);
                     }
                     catch (Exception e)
                     {
@@ -112,7 +113,8 @@ namespace PLSSequence
                 if(correct) {
                     try
                     {
-                        outputs = extractValues(form1.activityRange);
+                        bool toLog = !form1.checkBox2.Checked;                    
+                        outputs = extractValues(form1.activityRange, toLog);
                     }
                     catch (Exception ex)
                     {

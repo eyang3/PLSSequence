@@ -51,7 +51,7 @@ namespace PLSSequenceTest
             Calculate.ConvertSingle("GATC", 20, Calculate.aminoAcids, 4, ref ret, 1, seq);            
             for (int i = 1; i < 20*4; i++)
             {
-                if (i != 68)
+                if (i != 67)
                 {
                     Assert.IsTrue(ret[1, i] == 0);
                 }
